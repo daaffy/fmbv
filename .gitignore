@@ -1,2 +1,5 @@
 *.DS_Store
+.vscode
+
+# ignore .nii files, which are typically large
 *.nii 
